@@ -16,3 +16,4 @@ versions:
   ![Edit icon](/assets/images/help/settings/settings-third-party-deny-edit.png)
 6. Click **Deny access**.
   ![Deny confirmation button](/assets/images/help/settings/settings-third-party-deny-confirm.png)
+ถ
